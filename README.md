@@ -11,7 +11,10 @@
 ## Intro to working with Google sheets and formulas
 
 ### Link: https://www.youtube.com/watch?v=N2opj8XzYBY
-### Goal: Be an expert in working with Google sheets and be a master in creating the dashboards and using the inbuilt functions
+### Goal: 
+* Be an expert in working with Google sheets
+* Become master in creating the dashboards
+* Understand and implement inbuilt functions available in google sheet.
 ### Step:
 * Create a google account.
 * Pick one formula per day
