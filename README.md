@@ -1,7 +1,8 @@
 # ITClassEdition
 
 ## Typing materials
-### Link: https://www.typing.com/student/lessons
+### Links: 
+* https://www.typing.com/student/lessons
 ### Goal: 
 * Achive atleast 60 WPM in next 6 months
 ### Steps:
@@ -10,7 +11,8 @@
 * Add it in to the habit list and track the status on daily basis.
 
 ## Intro to working with Google sheets
-### Link: https://www.youtube.com/watch?v=N2opj8XzYBY
+### Links: 
+* https://www.youtube.com/watch?v=N2opj8XzYBY
 ### Goal: 
 * Be an expert in working with Google sheets
 * Become master in creating the dashboards
@@ -24,7 +26,9 @@
 * Add it in to the habit list and track the status on daily basis.
 
 ## Vim Tutorials
-### Link: https://www.youtube.com/watch?v=RZ4p-saaQkc
+### Link: 
+* https://www.youtube.com/watch?v=RZ4p-saaQkc
+* https://www.truth.sk/vim/vimbook-OPL.pdf
 ### Goal:
 * Be an expert in using Vim as your primary editor of choice
 * Be a ninja with Vim in next 3 months
