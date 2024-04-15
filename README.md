@@ -44,9 +44,9 @@
 ### Links:
 * https://neovim.io/
 * https://github.com/neovim/neovim/blob/master/INSTALL.md
-* https://github.com/Santhosh-KS/Neovim-from-scratch-for-swift (Plugins)
-* Neovim setup for Python development https://www.youtube.com/watch?v=4BnVeOUeZxc
 * https://www.youtube.com/@teej_dv (Author of Neovim)
+* https://github.com/nvim-lua/kickstart.nvim
+* Neovim setup for Python development https://www.youtube.com/watch?v=4BnVeOUeZxc
 
 ## TO-DO
 * Python material Gathering
