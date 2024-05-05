@@ -13,6 +13,7 @@ Data can come in various shapes and forms from different sources such as databas
 * https://data.gov/
 * https://ec.europa.eu/eurostat/web/main/home
 * https://www.indiastat.com/
+* https://www.kaggle.com/datasets
 
 ### Questions we want to answer
 * What is the median value of a property
