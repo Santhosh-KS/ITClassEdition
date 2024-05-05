@@ -53,8 +53,8 @@ https://docs.google.com/spreadsheets/d/1MslvBEu36n52s_cr6qpSseN11PqXiG12SUtyZVm1
 * COUNTA
 * UNIQUE
 
-Input for your function: [1,1,2,3,4,5]  --> You will get some random array as an input with varying length
-Output: 
-Count: 6
-Unique Elements count : 5
-Unique elements: [1,2,3,4,5]
+Input for your function: [1,1,2,3,4,5]  --> You will get some random array as an input with varying length     
+Output:      
+Count: 6     
+Unique Elements count : 5     
+Unique elements: [1,2,3,4,5]     
