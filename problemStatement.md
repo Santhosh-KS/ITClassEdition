@@ -15,6 +15,9 @@ Data can come in various shapes and forms from different sources such as databas
 * https://www.indiastat.com/
 * https://www.kaggle.com/datasets
 
+### Link for the playground data set
+https://docs.google.com/spreadsheets/d/1MslvBEu36n52s_cr6qpSseN11PqXiG12SUtyZVm1qrU/edit?usp=sharing
+
 ### Questions we want to answer
 * What is the median value of a property
 * Have the prices have increased or decreased in the last few years?
