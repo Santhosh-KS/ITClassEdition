@@ -40,12 +40,12 @@ https://docs.google.com/spreadsheets/d/1MslvBEu36n52s_cr6qpSseN11PqXiG12SUtyZVm1
 
 
 ### Neovim setup Assignments
-[ ] Install the nerd fonts
-[ ] Setup your environtment for Python and any other programming language other than python.
-   [ ] LSP
-   [ ] DAP
-   [ ] Short demo of things you have done.
-[ ] Find a feature in the IDE which you are using and try to find the equivalent in neovim.
+[ ] Install the nerd fonts    
+[ ] Setup your environtment for Python and any other programming language other than python.     
+   [ ] LSP     
+   [ ] DAP      
+   [ ] Short demo of things you have done.     
+[ ] Find a feature in the IDE which you are using and try to find the equivalent in neovim.    
 
 
 
