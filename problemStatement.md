@@ -30,7 +30,7 @@ Data can come in various shapes and forms from different sources such as databas
 
 
 ### Assignment
-[ ] Pick any 2 data sets of your choice.
-[ ] Understand the data and clean the data.
-[ ] Document the process followed and the details about the data.
-[ ] Prepare 10 mins demo for the next class about the data set you have picked.
+[ ] Pick any 2 data sets of your choice.   
+[ ] Understand the data and clean the data.   
+[ ] Document the process followed and the details about the data.   
+[ ] Prepare 10 mins demo for the next class about the data set you have picked.    
