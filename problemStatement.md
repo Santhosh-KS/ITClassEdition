@@ -34,3 +34,11 @@ Data can come in various shapes and forms from different sources such as databas
 [ ] Understand the data and clean the data.   
 [ ] Document the process followed and the details about the data.   
 [ ] Prepare 10 mins demo for the next class about the data set you have picked.    
+
+### Neovim setup Assignments
+[ ] Install the nerd fonts
+[ ] Setup your environtment for Python and any other programming language other than python.
+   [ ] LSP
+   [ ] DAP
+   [ ] Short demo of things you have done.
+[ ] Find a feature in the IDE which you are using and try to find the equivalent in neovim.
