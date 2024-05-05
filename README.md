@@ -46,6 +46,10 @@
 * https://github.com/neovim/neovim/blob/master/INSTALL.md
 * https://www.youtube.com/@teej_dv (Author of Neovim)
 * https://github.com/nvim-lua/kickstart.nvim
+### Nerd fonts:
+* https://www.nerdfonts.com/
+* https://github.com/ryanoasis/nerd-fonts
+* https://github.com/nvim-tree/nvim-tree.lua
 
 
 ## TO-DO
