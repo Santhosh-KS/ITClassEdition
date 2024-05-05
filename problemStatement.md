@@ -27,3 +27,10 @@ Data can come in various shapes and forms from different sources such as databas
 * Property location (state-wise).
 * Square foot dimension of the property.
 * Year of sale.
+
+
+### Assignment
+[ ] Pick any 2 data sets of your choice.
+[ ] Understand the data and clean the data.
+[ ] Document the process followed and the details about the data.
+[ ] Prepare 10 mins demo for the next class about the data set you have picked.
