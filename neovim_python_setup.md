@@ -12,4 +12,8 @@ $ sudo dpkg -i ripgrep_13.0.0_amd64.deb
 $  sudo apt install fswatch
 ```
 
+# Neovim with quarton setup for jupyter lab interactions
 
+* [quarto](www.quarto.org)   
+* [youbuteTut](https://www.youtube.com/watch?v=hp7FFr9oM1k)
+* [quartoNeovimDocumentation](https://quarto.org/docs/get-started/hello/neovim.html)
